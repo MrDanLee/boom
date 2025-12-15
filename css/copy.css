@@ -1,0 +1,53 @@
+
+/*
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f0f0f0;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  color: #333;
+}
+
+#result .green {
+  color: #2ecc71;
+}
+
+#result .red,
+.red {
+  color: #e74c3c;
+}
+
+.count {
+  color: green;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1000px;
+  margin: 0 auto;
+}
+
+.restart {
+  background-color: teal;
+  color: whitesmoke;
+  border-color: blue;
+  width: 150px;
+  height: 35px;
+  margin-top: 15px;
+  cursor: grab;
+  border-radius: 7px;
+  box-shadow: 0 8px 15px black;
+  font-size: medium;
+  transition: 3s;
+}
+
+.restart:hover {
+  background-color: aquamarine;
+  color: purple;
+}
+  /*
